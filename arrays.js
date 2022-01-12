@@ -1,0 +1,1 @@
+let comandos = ["git add", "git status", "git commit - m 'mensaje'", "git log"];
